@@ -22,3 +22,5 @@ Things I learned:
 
 ## Useful websites:
 1. https://replit.com/@replit/Python?v=1
+2. Programming glossary: https://docs.google.com/document/d/1kXC85TEAzNOtCHK6Hicr0u1a_wn5_UKarMayAUQrtVQ/edit
+3. 
