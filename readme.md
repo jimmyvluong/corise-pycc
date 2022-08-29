@@ -10,3 +10,15 @@ Things I learned:
     - In vscode Right click on "SOURCE CONTROL" at the top of open source control panel, then make sure "Source Control" is selected.
     - Open the drop down "SOURCE CONTROL REPOSITORIES" next to the top of the source control panel and right click on the repo which is incorrectly set and select "Close Repository".
 
+## To learn
+1. Testing lecture
+2. Break
+3. Dunder methods (double underscore methods)
+
+## Slides
+1. Week 1:
+2. Week 2:
+3. Week 3:
+
+## Useful websites:
+1. https://replit.com/@replit/Python?v=1
