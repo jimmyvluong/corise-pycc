@@ -3,6 +3,11 @@ Things I learned:
 ## Python
 
 1. Exception handling
+2. Spaces count as characters 
+```python
+author_name = 'P S Fox'
+author_name[4]
+```
 
 ## Debugging
 1. VS Code 10,000 changes in Source Control
